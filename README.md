@@ -1,2 +1,2 @@
 # Project1week2HowGreen
-Image storage
+Divas Image storage
